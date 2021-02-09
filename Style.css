@@ -1,0 +1,9 @@
+p {
+    color: coral;
+    font-weight: bolder;
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(blue, purple, black);
+}
